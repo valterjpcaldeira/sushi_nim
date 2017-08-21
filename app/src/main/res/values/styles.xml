@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColorPrimary">@color/pink</item>
+        <item name="android:textColorSecondary">@color/pink</item>
+        <item name="android:textColorTertiary">@color/pink</item>
+        <item name="android:colorBackground">@color/green</item>
+    </style>
+
+    <style name="PreferencesTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColorPrimary">@color/pink</item>
+        <item name="android:textColorSecondary">@color/pink</item>
+        <item name="android:textColorTertiary">@color/pink</item>
+    </style>
+
+</resources>

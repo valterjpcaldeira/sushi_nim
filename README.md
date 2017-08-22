@@ -1,10 +1,12 @@
-# Sushi NIM
+# Sushi NIM [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![forthebadge](http://forthebadge.com/badges/built-by-hipsters.svg)](http://forthebadge.com)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-[![forthebadge](http://forthebadge.com/badges/built-by-hipsters.svg)](http://forthebadge.com)
+![alt text](https://lh3.googleusercontent.com/Tmvc5aubVdaqjHYjF0lOmnaE2KsK7TgM2Iijz24qLKER4FRL7Dm3u-ToeSAne99auF0=w300-rw)
 
 An Android game based on the famouse game NIM. But with a sushi theme. It was developed using android canvas
+
+Just install and play:
+
+* [Android App](https://play.google.com/store/apps/details?id=valterjpcaldeira.sushinim&hl=en)
 
 
 ## Built With
